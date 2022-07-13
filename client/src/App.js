@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <a href="http://localhost:4000/auth/google">Sign In With Google</a>
+        <a href="/auth/google">Sign In With Google</a>
       </header>
     </div>
   );
